@@ -38,5 +38,4 @@ createApp({
       ]
     }
   }
-  
 }).mount('#app')
